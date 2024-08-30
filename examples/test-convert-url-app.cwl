@@ -24,7 +24,7 @@ $graph:
         label: the image to convert
         doc: the image to convert
         type: string
-        default: "https://eoepca.org/media_portal/images/logo6_med.original.png"
+        default: "https://raw.githubusercontent.com/EO-DataHub/test-workflow-store/main/EO-Data-Hub-logo_colour_425px.png"
       size:
         label: the percentage for a resize operation
         doc: the percentage for a resize operation
